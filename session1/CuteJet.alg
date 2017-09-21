@@ -2,6 +2,7 @@
 // CuteJet by CyaNn & ALGEA
 // NE PAS MODIFIER CETTE PARTIE DU CODE
 
+include("../includes/Global.include");
 include("../includes/CuteJet.include1");
 include("../includes/CuteJet.include2");
 
@@ -32,4 +33,4 @@ include("../includes/CuteJet.include2");
 // -----------------------------------------------------------------------------
 // NE PAS MODIFIER LA PARTIE SUIVANTE DU CODE
 
-include("../includes/CuteJet.include3");
+include("../includes/CuteJet.includeEnd");
